@@ -27,7 +27,7 @@ The example of how to use this theme is provided in the `exampleSite` folder. At
 3. Install this theme into your project folder.
    ```
    $ cd mySite
-   $ git clone https://github.com/zzzmisa/hugo-theme-doors.git themes/hugo-theme-doors
+   $ git clone https://github.com/pizzacoca/hugo-theme-doors.git themes/hugo-theme-doors
    ```
 4. Copy the entire contents of the `exampleSite` to root folder of your project folder.
    ```
